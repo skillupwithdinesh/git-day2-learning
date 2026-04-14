@@ -1,2 +1,2 @@
 Version 1
-Login feature added
+Login features added
