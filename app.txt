@@ -3,4 +3,4 @@ Login feature added
 Logout feature
 Login features added
 Search feature added with enhanced options
-Payment features added
+Payment features added.
